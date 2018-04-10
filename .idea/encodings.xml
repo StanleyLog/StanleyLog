@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/com/stanleylog/java/init/PropertyHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/stanleylog/java/io/WriterExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/stanleylog/java/lang/annotation/TypeAnnotationExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/stanleylog/java/sql/OracleConnectExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/stanleylog/jdbc/DataSyncToolkit.java" charset="GBK" />
+  </component>
+</project>

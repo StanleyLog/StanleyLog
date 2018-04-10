@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="dev-lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Softwares/dev/java/lib/dmc/dmcjdbc-1.01.jar!/" />
+      <root url="jar://$USER_HOME$/Softwares/dev/java/lib/mongodb-driver/mongo-java-driver-2.13.0-rc0.jar!/" />
+      <root url="jar://$USER_HOME$/Softwares/dev/java/lib/mqtt/mqttv3.jar!/" />
+      <root url="jar://$USER_HOME$/Softwares/dev/java/lib/mssql/sqljdbc.jar!/" />
+      <root url="jar://$USER_HOME$/Softwares/dev/java/lib/ojdbc/ojdbc5.jar!/" />
+      <root url="jar://$USER_HOME$/Softwares/dev/java/lib/apache/log4j/log4j-over-slf4j-1.6.6.jar!/" />
+      <root url="jar://$USER_HOME$/Softwares/dev/java/lib/apache/commons/logging/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Softwares/dev/java/framework/storm/storm-core-0.9.1-incubating.jar!/" />
+      <root url="jar://$USER_HOME$/Softwares/dev/java/framework/storm/storm-0.8.1.jar!/" />
+      <root url="jar://$USER_HOME$/Softwares/dev/java/lib/apache/commons/lang/commons-lang-2.5.jar!/" />
+      <root url="jar://$USER_HOME$/Softwares/dev/java/lib/apache/commons/io/commons-io-2.5/commons-io-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Softwares/dev/java/framework/storm/storm-0.8.1.jar!/src/jvm" />
+    </SOURCES>
+  </library>
+</component>
